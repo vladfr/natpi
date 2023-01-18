@@ -34,6 +34,5 @@
         "armhf",
         "armv7",
         "i386"
-    ],
-    "image": "mtthp/{arch}-addon-nextcloud"
+    ]
 }
